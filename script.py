@@ -1,7 +1,7 @@
 class Script(object):
     START_TXT = """Hello {},
 
-My name is <a href=https://t.me/{}>{}</a>!
+My name is Rozzy
 
 <b>I can provide Movies. :)
 
@@ -17,7 +17,7 @@ Just Add me to Your Group As Admin, Hit The Help Button For More Info..</b>"""
 ➥ Data Base: <a href='https://www.mongodb.com/'>MongoDB</a>
 ➥ Bot Server: <a href='https://heroku.com'>Heroku</a>
 ➥ Build Status: v2.0.1 [ Beta ]"""
-
+➥ Made By: Lovi Singh
     SOURCE_TXT = """<b>Source:</b>
 IMDb is a Open source project.
 Source: <a href='https://google.com'>Google - Click here 👈</a>
