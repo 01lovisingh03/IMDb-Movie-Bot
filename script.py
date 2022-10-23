@@ -1,12 +1,10 @@
 class Script(object):
     START_TXT = """Hello {},
 
-My name is <a href=https://t.me/{}>{}</a>!
+My name is <a href=https://t.me/{}>{}</a>! 
 
-<b>I can provide Movies. A Telegram Auto Filter Bot. Its Easy To Use Me :)
-
-Just Add me to Your Group As Admin, Hit The Help Button For More Info..</b>"""
-
+𝙰 𝚂𝚒𝚖𝚙𝚕𝚎 𝙰𝚞𝚝𝚘 𝙵𝚒𝚕𝚝𝚎𝚛 + 𝙼𝚘𝚟𝚒𝚎 𝚂𝚎𝚊𝚛𝚌𝚑 + 𝙼𝚊𝚗𝚞𝚊𝚕 𝙵𝚒𝚕𝚝𝚎𝚛 + 𝙵𝚒𝚕𝚎 𝚂𝚝𝚘𝚛𝚎 𝙱𝚘𝚝.  
+𝙹𝚞𝚜𝚝 𝙰𝚍𝚍 𝙼𝚎 𝚃𝚘 𝚈𝚘𝚞𝚛 𝙶𝚛𝚘𝚞𝚙 𝙰𝚗𝚍 𝙴𝚗𝚓𝚘𝚢
     HELP_TXT = """Hey {}
 
 <b>Here Is The Help For My Commands.</b>"""
